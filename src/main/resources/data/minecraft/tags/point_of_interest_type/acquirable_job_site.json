@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "starryspark_update:wallet_inspector_poi",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "facing=north,age=0": {
+      "model": "starryspark_update:block/budding_banana_tree_trunk_stage0",
+      "y": 0
+    },
+    "facing=east,age=0": {
+      "model": "starryspark_update:block/budding_banana_tree_trunk_stage0",
+      "y": 90
+    },
+    "facing=south,age=0": {
+      "model": "starryspark_update:block/budding_banana_tree_trunk_stage0",
+      "y": 180
+    },
+    "facing=west,age=0": {
+      "model": "starryspark_update:block/budding_banana_tree_trunk_stage0",
+      "y": 270
+    },
+    "facing=north,age=1": {
+      "model": "starryspark_update:block/budding_banana_tree_trunk_stage1",
+      "y": 0
+    },
+    "facing=east,age=1": {
+      "model": "starryspark_update:block/budding_banana_tree_trunk_stage1",
+      "y": 90
+    },
+    "facing=south,age=1": {
+      "model": "starryspark_update:block/budding_banana_tree_trunk_stage1",
+      "y": 180
+    },
+    "facing=west,age=1": {
+      "model": "starryspark_update:block/budding_banana_tree_trunk_stage1",
+      "y": 270
+    },
+    "facing=north,age=2": {
+      "model": "starryspark_update:block/budding_banana_tree_trunk_stage2",
+      "y": 0
+    },
+    "facing=east,age=2": {
+      "model": "starryspark_update:block/budding_banana_tree_trunk_stage2",
+      "y": 90
+    },
+    "facing=south,age=2": {
+      "model": "starryspark_update:block/budding_banana_tree_trunk_stage2",
+      "y": 180
+    },
+    "facing=west,age=2": {
+      "model": "starryspark_update:block/budding_banana_tree_trunk_stage2",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "GAS",
+    "  D"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sculk_shrieker"
+    },
+    "G": {
+      "item": "starryspark_update:gestalts_star"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "D": {
+      "item": "minecraft:deepslate_bricks"
+    }
+  },
+  "result": {
+    "id": "starryspark_update:megaphone",
+    "count": 1
+  }
+}

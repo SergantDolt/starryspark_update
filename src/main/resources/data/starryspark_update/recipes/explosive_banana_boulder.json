@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BSB",
+    "BTB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "starryspark_update:banana"
+    },
+    "T": {
+      "item": "minecraft:tnt_minecart"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "id": "starryspark_update:explosive_banana_boulder",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "is_falling=true": {
+      "model": "starryspark_update:block/explosive_banana_boulder_falling"
+    },
+    "is_falling=false": {
+      "model": "starryspark_update:block/explosive_banana_boulder"
+    }
+  }
+}

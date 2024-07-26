@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "starryspark_update:block/banana_tree_trunk_stage_0_chopped"
+    },
+    "age=1": {
+      "model": "starryspark_update:block/banana_tree_trunk_stage_1_chopped"
+    },
+    "age=2": {
+      "model": "starryspark_update:block/banana_tree_trunk_stage_2_chopped"
+    },
+    "age=3": {
+      "model": "starryspark_update:block/banana_tree_trunk_stage_3_chopped"
+    }
+  }
+}

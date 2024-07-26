@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CBC",
+    "BRB",
+    "CBC"
+  ],
+  "key": {
+    "C": {
+      "item": "starryspark_update:very_common_star_sample"
+    },
+    "B": {
+      "item": "starryspark_update:slightly_dubious_star_fragment"
+    },
+    "R": {
+      "item": "starryspark_update:dubious_star_shard"
+    }
+  },
+  "result": {
+    "id": "starryspark_update:gestalts_star",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "starryspark_update:block/banana_tree_sapling"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "com.gullible.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ItemCostMixin",
+    "ItemMixin",
+    "MerchantOfferMixin",
+    "PlayerMixin",
+    "SlotMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+  ]
+}

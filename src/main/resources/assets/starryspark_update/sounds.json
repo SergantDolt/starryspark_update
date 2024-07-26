@@ -1,0 +1,14 @@
+{
+  "megaphone": {
+    "subtitle": "sound.starryspark_update.megaphone",
+    "sounds": [
+      "starryspark_update:megaphone"
+    ]
+  },
+  "megaphone_easter_egg": {
+    "subtitle": "sound.starryspark_update.megaphone_easter_egg",
+    "sounds": [
+      "starryspark_update:megaphone_easter_egg"
+    ]
+  }
+}

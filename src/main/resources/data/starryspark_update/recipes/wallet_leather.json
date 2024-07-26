@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "LSL",
+    "LLL"
+  ],
+  "key": {
+    "S": {
+      "item": "starryspark_update:very_common_star_sample"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "id": "starryspark_update:wallet_leather",
+    "count": 1
+  }
+}

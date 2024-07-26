@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.gullible.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "LocalPlayerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

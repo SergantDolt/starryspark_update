@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BSB",
+    "BAB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "starryspark_update:banana"
+    },
+    "A": {
+      "item": "minecraft:anvil"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "id": "starryspark_update:damage_banana_boulder",
+    "count": 1
+  }
+}

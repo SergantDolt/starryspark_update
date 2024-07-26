@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "starryspark_update:item/wallet_leather0",
+    "layer1": "starryspark_update:item/wallet_leather1"
+  }
+}

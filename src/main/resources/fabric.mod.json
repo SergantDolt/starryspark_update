@@ -1,0 +1,49 @@
+{
+	"schemaVersion": 1,
+	"id": "starryspark_update",
+	"version": "${version}",
+	"name": "Starryspark Update",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/starryspark_update/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.gullible.StarrysparkUpdate",
+			"com.gullible.core.config.ConfigUtil"
+		],
+		"client": [
+          "com.gullible.StarrysparkUpdateClient"
+		],
+		"fabric-datagen": [
+			"com.gullible.StarrysparkUpdateDataGenerator"
+		],
+		"modmenu": [
+			"com.gullible.integration.ModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"starryspark_update.mixins.json",
+		{
+			"config": "starryspark_update.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"accessWidener": "starryspark-widener.accesswidener",
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.6",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
